@@ -1,16 +1,19 @@
-# advanced_exercise_3
+# Flutter応用講座第３回練習問題
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 問1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+新しいペットの情報をリストに追加する機能を完成させてください。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 問2
+
+ペットの情報を長押しするとアラートダイアログが出て、OKを押すと該当のペットと同じ名前のペットの情報リストから削除されるような機能を追加してください。  
+また、ペットの情報がリストから削除されたとき、スナックバーで削除完了メッセージを表示するようにしてください。
+
+## 問3
+
+ペットの情報一覧にフィルターをかける機能を追加してください。  
+フィルターは「条件なし」、「オスのみ」、「メスのみ」の３つです。  
+フィルターはAppBar上のポップアップメニューから選択できるようしてください。
