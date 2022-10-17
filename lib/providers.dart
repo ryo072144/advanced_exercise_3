@@ -12,7 +12,7 @@ const List<Pet> initialPets = [
 class PetsNotifier extends StateNotifier<List<Pet>> {
   PetsNotifier(): super(initialPets);
 
-  void addPet(Pet pet) {
+  void addPet(Pet newPet) {
   }
 }
 
